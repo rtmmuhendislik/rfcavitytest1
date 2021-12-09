@@ -4,6 +4,7 @@ import sympy
 import matplotlib.pyplot as plt
 import numpy as np
 #import pyheadtail
+s=iw
 
 t, s = sympy.symbols('t, s')
 i = sympy.symbols('i', real=True, positive=True)
